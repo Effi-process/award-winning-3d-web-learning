@@ -5,6 +5,14 @@
 
 ## Offizielle Dokumentation
 
+### Tailwind CSS ⭐⭐⭐⭐⭐
+- **Dokumentation**: https://tailwindcss.com/docs
+- **Playground**: https://play.tailwindcss.com/
+- **GitHub**: https://github.com/tailwindlabs/tailwindcss
+- **UI Components**: https://tailwindui.com/
+- **Headless UI**: https://headlessui.com/
+- **Detaillierte Ressourcen**: Siehe `TAILWIND-CSS-MASTERY.md`
+
 ### Three.js
 - **Dokumentation**: https://threejs.org/docs/
 - **Beispiele**: https://threejs.org/examples/

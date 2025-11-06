@@ -19,6 +19,41 @@ Das Ziel: Eine immersive Web-Experience mit verschiedenen cinematischen Szenen:
 
 ## 📚 Dokumentation
 
+### 0. Tailwind CSS Ressourcen 🆕
+#### [TAILWIND-CSS-MASTERY.md](./TAILWIND-CSS-MASTERY.md)
+**Umfassende Tailwind CSS Ressourcen** - Von Basics bis Advanced
+
+**Inhalt**:
+- Offizielle Dokumentation & Plugins
+- Beste Kurse & Tutorials
+- UI-Component-Libraries (DaisyUI, ShadCN, Flowbite)
+- Animation & Motion
+- Dark Mode
+- Design System Setup
+- Performance Optimization
+
+**Status**: ✅ Neu erstellt
+
+#### [TAILWIND-QUICK-REFERENCE.md](./TAILWIND-QUICK-REFERENCE.md)
+**Schnellreferenz** - Alle wichtigen Tailwind-Klassen auf einen Blick
+
+**Status**: ✅ Neu erstellt
+
+#### [TAILWIND-3D-INTEGRATION.md](./TAILWIND-3D-INTEGRATION.md)
+**3D + Tailwind** - Kombiniere modernes CSS mit Three.js
+
+**Inhalt**:
+- Setup-Guides
+- UI-Overlay-Patterns
+- Glassmorphism für 3D-UIs
+- Scroll-basierte Interaktionen
+- React Three Fiber + Tailwind
+- Responsive 3D-Layouts
+
+**Status**: ✅ Neu erstellt
+
+---
+
 ### 1. [AWARD-WINNING-3D-WEB-MASTERY.md](./AWARD-WINNING-3D-WEB-MASTERY.md)
 **Das Hauptdokument** - Dein kompletter Guide zur Meisterschaft
 
